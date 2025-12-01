@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Jordan! 👋
 
-<!--
-**jordanwuztaken/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+  ## 🚀 About Me
+### 🎓 Currently a student at South Brunswick Schools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 I enjoy coding, building, and learning new technologies
+
+### 🌱 Currently learning: Web Development & Git
+
+### ⚡ Fun fact: I love coffee, gaming, and cats!
+
+## 🛠️ Skills & Tools
+ ### :octocat: Languages: Python, JavaScript, HTML/CSS
+
+
+Tools: VS Code, Git, GitHub
+
+Frameworks: React (basics), Node.js (learning)
+
+📈 GitHub Stats
+## Jordan's GitHub Stats
+
+
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=jordanwuztaken&theme=dark)
+
+📫 How to Reach Me
+Email: 30003248@sbstudents.org 
+
+# ✨ Latest Projects:
+
+### Coming soon!
+
+# Thanks for visiting my profile! ⭐️
+
+
+bye :)
